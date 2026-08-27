@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:003311,70:00ff66,100:050505&height=230&section=header&text=MARSEL%20PUTRA%20NUGRAHA&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Polyglot%20Engineer%20%7C%20Cybersecurity%20Researcher%20%7C%20Code%20Architect&descAlignY=62&descFontSize=16&descColor=00ff66" width="100%" />
+  <!-- Dynamic Cyber Header Banner with Messi Dribbling to the Right -->
+  <img src="./assets/header_banner.gif" width="100%" alt="Marsel Putra Nugraha - Banner with Animated Messi" />
+
+  <br/><br/>
 
   <!-- Animated Typing SVG (Properly Encoded) -->
   <a href="https://github.com/MarselPTR">
@@ -29,9 +31,9 @@
 
   <br/>
 
-  <!-- Animated Messi / Football Player Showcase -->
+  <!-- Animated Messi / Football Player Showcase with Neon Border -->
   <p align="center">
-    <img src="./assets/messi.gif" width="380" alt="Lionel Messi Animated" style="border-radius: 12px; border: 2px solid #00FF66;" />
+    <img src="./assets/messi.gif" width="460" alt="Lionel Messi Animated" />
   </p>
 
 </div>
