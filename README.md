@@ -180,12 +180,7 @@
 
 <div align="center">
 
-> *"There are two types of companies: those that have been hacked, and those that don't know they have been hacked yet."*  
-> — **Kevin Mitnick**
-
-<br/>
-
-<!-- Dynamic Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:003311,70:00ff66,100:050505&height=120&section=footer" width="100%" />
+  <!-- Dynamic Cyber Animated Quote & Footer Banner -->
+  <img src="./assets/quote_banner.gif" width="100%" alt="Security Mindset - Kevin Mitnick Quote" />
 
 </div>
