@@ -165,6 +165,14 @@
 
 ---
 
+### ⚽ Contribution Pitch & Strike Matrix
+
+<div align="center">
+  <img src="./assets/contribution_kick.gif" width="100%" alt="MarselPTR Contribution Matrix Strike Animation" />
+</div>
+
+---
+
 ### ⚡ Featured Security & Development Focus
 
 | Domain | Focus & Specialization | Tech & Tools |
