@@ -1,28 +1,30 @@
 <div align="center">
 
   <!-- Dynamic Cyber Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:001100&height=220&section=header&text=MARSEL%20PUTRA%20NUGRAHA&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Cybersecurity%20Specialist%20%7C%20Code%20Architect&descAlignY=60&descFontSize=16&descColor=00ff66" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:003311,70:00ff66,100:050505&height=230&section=header&text=MARSEL%20PUTRA%20NUGRAHA&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Polyglot%20Engineer%20%7C%20Cybersecurity%20Researcher%20%7C%20Code%20Architect&descAlignY=62&descFontSize=16&descColor=00ff66" width="100%" />
 
   <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=800&height=90&lines=⚡+Breaking+Systems+to+Make+Them+Unbreakable.;🛡️+Offensive+Security+%26+AppSec+Specialist;💻+Polyglot+Developer+across+All+Modern+Stacks;🔥+Turning+Vulnerabilities+into+Impenetrable+Code." alt="Typing SVG" />
+  <a href="https://github.com/MarselPTR">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=800&height=90&lines=⚡+Breaking+Systems+to+Make+Them+Unbreakable.;🛡️+Offensive+Security+%26+AppSec+Specialist;💻+Polyglot+Developer+across+Low-Level+%26+Cloud+Stacks;🔥+Transforming+Complex+Vulnerabilities+into+Secure+Code." alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Profiling Badges -->
+  <!-- Live Stats & Profiling Badges -->
   <p align="center">
     <a href="https://github.com/MarselPTR" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-MarselPTR-181717?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0d1117" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/marsel-putra-nugraha-b386642b2" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Marsel_Putra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://www.instagram.com/mrslngrr_/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-@mrslngrr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=MarselPTR&style=for-the-badge&color=00ff66&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
   </p>
 
 </div>
@@ -32,17 +34,15 @@
 ### 🚀 `<Terminal>` System Briefing `</Terminal>`
 
 ```bash
-[marsel@cyberdeck ~]$ whoami
-> Marsel Putra Nugraha (@MarselPTR)
-> Polyglot Software Engineer & Cybersecurity Specialist
-> Bridging low-level systems, modern full-stack development, and offensive/defensive security.
-
-[marsel@cyberdeck ~]$ cat mission.txt
-> Engineering resilient software architectures, auditing codebases for zero-day vulnerabilities, 
-  and mastering every layer of the compute stack from assembly to cloud.
-
-[marsel@cyberdeck ~]$ status
-> 🟢 Active & Ready for Collaboration | Pentesting | Software Architecture
+ __________________________________________________________________
+| [root@cyberdeck ~]# cat /etc/identity.conf                       |
+|==================================================================|
+| IDENTITY   : Marsel Putra Nugraha (@MarselPTR)                   |
+| ROLE       : Polyglot Software Architect & Security Specialist   |
+| FOCUS      : Offensive Security, Pentesting, Reverse Engineering |
+| STACK      : C/C++, Rust, Go, Python, TypeScript, Bash, Assembly |
+| STATUS     : 🟢 Active & Available for Security Audits & Collabs |
+|__________________________________________________________________|
 ```
 
 ---
@@ -110,42 +110,47 @@
 ### 💻 Polyglot Programming Arsenal
 
 <div align="center">
-
-| Core / Systems | Backend & APIs | Scripting & Tooling | Frontend & Web |
-| :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40" height="40" alt="C" title="C"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40" height="40" alt="C++" title="C++"/> <br/> **C / C++** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" width="40" height="40" alt="Go" title="Go"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="NodeJS" title="Node.js"/> <br/> **Go / Node.js** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" width="40" height="40" alt="Bash" title="Bash"/> <br/> **Python / Bash** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" height="40" alt="React" title="React"/> <br/> **TS / React** |
-| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="40" height="40" alt="Rust" title="Rust"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" title="Java"/> <br/> **Rust / Java** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="40" height="40" alt="Django" title="Django"/> <br/> **FastAPI / Django** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" width="40" height="40" alt="Ruby" title="Ruby"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" width="40" height="40" alt="PowerShell" title="PowerShell"/> <br/> **Ruby / PS** | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40" height="40" alt="Next.js" title="Next.js"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="Tailwind" title="Tailwind"/> <br/> **Next.js / CSS** |
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,bash,ts,js,react,nextjs,nodejs,fastapi,django,postgres,mongodb,redis,docker,kubernetes,aws,linux,kali,arch,git,github,postman&perline=13&theme=dark" alt="My Tech Stack" />
+    </a>
+  </p>
 </div>
 
-<br/>
-
 <details>
-<summary><b>🔥 Click to expand full technology stack & database proficiency</b></summary>
+<summary><b>🔥 Click to expand detailed stack breakdown</b></summary>
 
 <br/>
 
-- **Languages:** Python, C, C++, Rust, Go, TypeScript, JavaScript, Bash, Assembly (x86_64), Java, PHP, C#, Ruby, SQL
-- **Databases & Caching:** PostgreSQL, MySQL, Redis, MongoDB, SQLite, Neo4j
-- **DevOps & Cloud:** Docker, Kubernetes, Linux (Kernel / Sysadmin), AWS, GitHub Actions, Nginx, Terraform
+- **Languages:** C, C++, Rust, Go, Python, TypeScript, JavaScript, Bash, Assembly (x86_64), Java, PHP, C#, Ruby, SQL
+- **Frameworks & Libs:** React, Next.js, FastAPI, Django, Express.js, Node.js, Tailwind CSS
+- **Databases & Cache:** PostgreSQL, MongoDB, Redis, MySQL, SQLite, Neo4j
+- **DevOps & Cloud:** Docker, Kubernetes, Linux (Kernel / Sysadmin), AWS, GitHub Actions, Nginx, CI/CD
 - **Security Methodologies:** OWASP Top 10, MITRE ATT&CK, NIST CSF, Secure Code Review, Threat Modeling
 
 </details>
 
 ---
 
-### 📊 GitHub Threat & Activity Analytics
+### 📊 Threat & Activity Analytics
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak Stats linked to MarselPTR -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MarselPTR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarselPTR&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" height="175" alt="GitHub Streak" />
+  <!-- GitHub Live Stats & Streak Tracker -->
+  <a href="https://github.com/MarselPTR">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarselPTR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9" height="175" alt="MarselPTR GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MarselPTR">
+    <img src="https://streak-stats.demolab.com/?user=MarselPTR&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" height="175" alt="MarselPTR GitHub Streak" />
+  </a>
 
   <br/><br/>
 
-  <!-- Top Languages Card linked to MarselPTR -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarselPTR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <!-- Top Languages Distribution -->
+  <a href="https://github.com/MarselPTR">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarselPTR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9" height="165" alt="MarselPTR Top Languages" />
+  </a>
 
 </div>
 
@@ -155,10 +160,18 @@
 
 | Domain | Focus & Specialization | Tech & Tools |
 | :--- | :--- | :--- |
-| 🛡️ **Penetration Testing & AppSec** | Web / API security auditing, vulnerability assessment & exploit analysis | `Burp Suite` `OWASP` `Postman` |
+| 🛡️ **Penetration Testing & AppSec** | Web & API security auditing, vulnerability assessment & exploit analysis | `Burp Suite` `OWASP` `Postman` |
 | 🔍 **Security Tooling & Automation** | Custom recon automation, threat hunting & custom security scripts | `Python` `Go` `Bash` `Rust` |
 | 🔐 **Secure Software Engineering** | High-performance backend architectures with zero-trust & cryptographic security | `TypeScript` `FastAPI` `PostgreSQL` |
 | 🧬 **Binary & Malware Analysis** | Reverse engineering executables, analyzing disassembly & API hooks | `C/C++` `Ghidra` `GDB` `x64dbg` |
+
+---
+
+### 🐍 Contribution Activity Matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarselPTR/MarselPTR/output/github-contribution-grid-snake-dark.svg" alt="Marsel's Contribution Snake Animation" width="100%" />
+</div>
 
 ---
 
@@ -172,6 +185,6 @@
 <br/>
 
 <!-- Dynamic Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00ff66,100:000000&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:003311,70:00ff66,100:050505&height=120&section=footer" width="100%" />
 
 </div>
