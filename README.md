@@ -3,9 +3,9 @@
   <!-- Dynamic Cyber Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:003311,70:00ff66,100:050505&height=230&section=header&text=MARSEL%20PUTRA%20NUGRAHA&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Polyglot%20Engineer%20%7C%20Cybersecurity%20Researcher%20%7C%20Code%20Architect&descAlignY=62&descFontSize=16&descColor=00ff66" width="100%" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Typing SVG (Properly Encoded) -->
   <a href="https://github.com/MarselPTR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=800&height=90&lines=⚡+Breaking+Systems+to+Make+Them+Unbreakable.;🛡️+Offensive+Security+%26+AppSec+Specialist;💻+Polyglot+Developer+across+Low-Level+%26+Cloud+Stacks;🔥+Transforming+Complex+Vulnerabilities+into+Secure+Code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%E2%9A%A1+Breaking+Systems+to+Make+Them+Unbreakable.;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+and+AppSec+Specialist;%F0%9F%92%BB+Polyglot+Developer+across+All+Modern+Stacks;%F0%9F%94%A5+Turning+Vulnerabilities+into+Secure+Code." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -25,6 +25,13 @@
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=MarselPTR&style=for-the-badge&color=00ff66&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
+  </p>
+
+  <br/>
+
+  <!-- Animated Messi / Football Player Showcase -->
+  <p align="center">
+    <img src="./assets/messi.gif" width="380" alt="Lionel Messi Animated" style="border-radius: 12px; border: 2px solid #00FF66;" />
   </p>
 
 </div>
@@ -136,20 +143,20 @@
 
 <div align="center">
 
-  <!-- GitHub Live Stats & Streak Tracker -->
-  <a href="https://github.com/MarselPTR">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarselPTR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=c9d1d9" height="175" alt="MarselPTR GitHub Stats" />
-  </a>
-  &nbsp;
+  <!-- GitHub Live Streak Tracker -->
   <a href="https://github.com/MarselPTR">
     <img src="https://streak-stats.demolab.com/?user=MarselPTR&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" height="175" alt="MarselPTR GitHub Streak" />
   </a>
 
   <br/><br/>
 
-  <!-- Top Languages Distribution -->
+  <!-- GitHub Summary & Languages Card -->
   <a href="https://github.com/MarselPTR">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarselPTR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=c9d1d9" height="165" alt="MarselPTR Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarselPTR&theme=tokyonight" height="175" alt="MarselPTR Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MarselPTR">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarselPTR&theme=tokyonight" height="175" alt="MarselPTR Repos Per Language" />
   </a>
 
 </div>
@@ -164,14 +171,6 @@
 | 🔍 **Security Tooling & Automation** | Custom recon automation, threat hunting & custom security scripts | `Python` `Go` `Bash` `Rust` |
 | 🔐 **Secure Software Engineering** | High-performance backend architectures with zero-trust & cryptographic security | `TypeScript` `FastAPI` `PostgreSQL` |
 | 🧬 **Binary & Malware Analysis** | Reverse engineering executables, analyzing disassembly & API hooks | `C/C++` `Ghidra` `GDB` `x64dbg` |
-
----
-
-### 🐍 Contribution Activity Matrix
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MarselPTR/MarselPTR/output/github-contribution-grid-snake-dark.svg" alt="Marsel's Contribution Snake Animation" width="100%" />
-</div>
 
 ---
 
