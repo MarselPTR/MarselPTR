@@ -168,7 +168,7 @@
 ### ⚽ Contribution Pitch & Strike Matrix
 
 <div align="center">
-  <img src="./assets/contribution_kick.gif" width="100%" alt="MarselPTR Contribution Matrix Strike Animation" />
+  <img src="./assets/contribution_pitch_strike.gif" width="100%" alt="MarselPTR Contribution Matrix Strike Animation with Goalkeeper" />
 </div>
 
 ---
